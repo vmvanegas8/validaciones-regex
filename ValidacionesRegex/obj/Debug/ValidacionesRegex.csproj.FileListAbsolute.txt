@@ -1,0 +1,10 @@
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\bin\Debug\ValidacionesRegex.exe.config
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\bin\Debug\ValidacionesRegex.exe
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\bin\Debug\ValidacionesRegex.pdb
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.frmvalidaciones.resources
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.Properties.Resources.resources
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.csproj.GenerateResource.cache
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.exe
+C:\Users\VICTOR\source\repos\ValidacionesRegex\ValidacionesRegex\obj\Debug\ValidacionesRegex.pdb
